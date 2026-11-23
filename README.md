@@ -130,13 +130,13 @@ add_expense("Harini", ["Harini","Arun","Azeem","Arun"], 567)
 
 Displays the calculated balances and payment suggestions for the first expense scenario.
 
-![Output 1](output1.png)
+![Output 1](Output Screenshots/Output 1.jpeg)
 
 ### Output 2 – Final Settlements and Suggested Transactions
 
 Displays the calculated balances and payment suggestions for the second expense scenario.
 
-![Output 2](output2.png)
+![Output 2](Output Screenshots/Output 2.jpg)
 
 ## 📚 Python Concepts Used
 
